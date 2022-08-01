@@ -46,4 +46,9 @@
 
     Average case because 18 is in the middle of the array.
     
- 
+<h3> 5)Insertion sort of [7,3,5,8,2,9,4,15,6] only first 4 steps. </h3>
+                                                                       
+    [7|,3,5,8,2,9,4,15,6]
+    [3,7|,5,8,2,9,4,15,6]
+    [3,5,7|,8,2,9,4,15,6]
+    [3,5,7,8|,2,9,4,15,6]
