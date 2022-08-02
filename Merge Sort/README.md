@@ -14,4 +14,4 @@
 
     O(nlog(n))
     
-<www.patika.dev>        
+www.patika.dev        
